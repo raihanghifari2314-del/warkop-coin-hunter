@@ -1,0 +1,11 @@
+# file sementara / hasil uji
+_result.txt
+_test.ps1
+
+# OS
+Thumbs.db
+.DS_Store
+
+# editor
+.vscode/
+.idea/
